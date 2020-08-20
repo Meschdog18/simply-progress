@@ -1,5 +1,9 @@
-# simply-progress
+# Simply-Progress
 A light and easy to use progress bar for python
+
+# Installation
+
+python3 -m pip install simply-progress
 
 # Example
 
