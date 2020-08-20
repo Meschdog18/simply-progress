@@ -1,4 +1,3 @@
-import os
 
 class Progress_Bar:
     """Init Progress Bar
